@@ -1,8 +1,10 @@
 const cheerio = require("cheerio");
 const axios = require("axios");
 const fs = require("fs");
-const list_url = require("./total_url_singapore.json");
+const country_name = process.argv.splice(2).join(" ");
+const list_url = require(`./total-url-by-country/total_url_${country_name}`);
 const auth = require("./auth.json");
+const XLSX = require("xlsx");
 
 var config = {
   method: 'get',
@@ -65,7 +67,11 @@ async function main(){
       console.log(error);
     });
   }
-  fs.writeFileSync('./data-v2/singapore.json', JSON.stringify(output, null, 2));
+  fs.writeFileSync(`./data-json/${country_name}.json`, JSON.stringify(output, null, 2));
+  const worksheet = XLSX.utils.json_to_sheet(output);
+  const workbook = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(workbook, worksheet, "data");
+  XLSX.writeFile(workbook, `./data-xlsx/${country_name}.xlsx`);
   console.log('done');
 }
 

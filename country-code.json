@@ -1,0 +1,1247 @@
+[
+    {
+        "Code": "AF",
+        "Name": "Afghanistan",
+        "Alias": null
+    },
+    {
+        "Code": "AX",
+        "Name": "Aland Islands",
+        "Alias": null
+    },
+    {
+        "Code": "AL",
+        "Name": "Albania",
+        "Alias": null
+    },
+    {
+        "Code": "DZ",
+        "Name": "Algeria",
+        "Alias": null
+    },
+    {
+        "Code": "AS",
+        "Name": "American Samoa",
+        "Alias": null
+    },
+    {
+        "Code": "AD",
+        "Name": "Andorra",
+        "Alias": null
+    },
+    {
+        "Code": "AO",
+        "Name": "Angola",
+        "Alias": null
+    },
+    {
+        "Code": "AI",
+        "Name": "Anguilla",
+        "Alias": null
+    },
+    {
+        "Code": "AQ",
+        "Name": "Antarctica",
+        "Alias": null
+    },
+    {
+        "Code": "AG",
+        "Name": "Antigua And Barbuda",
+        "Alias": null
+    },
+    {
+        "Code": "AR",
+        "Name": "Argentina",
+        "Alias": null
+    },
+    {
+        "Code": "AM",
+        "Name": "Armenia",
+        "Alias": null
+    },
+    {
+        "Code": "AW",
+        "Name": "Aruba",
+        "Alias": "__Netherlands Antilles__"
+    },
+    {
+        "Code": "AU",
+        "Name": "Australia",
+        "Alias": null
+    },
+    {
+        "Code": "AT",
+        "Name": "Austria",
+        "Alias": null
+    },
+    {
+        "Code": "AZ",
+        "Name": "Azerbaijan",
+        "Alias": null
+    },
+    {
+        "Code": "BS",
+        "Name": "Bahamas",
+        "Alias": null
+    },
+    {
+        "Code": "BH",
+        "Name": "Bahrain",
+        "Alias": "____"
+    },
+    {
+        "Code": "BD",
+        "Name": "Bangladesh",
+        "Alias": null
+    },
+    {
+        "Code": "BB",
+        "Name": "Barbados",
+        "Alias": null
+    },
+    {
+        "Code": "BY",
+        "Name": "Belarus",
+        "Alias": null
+    },
+    {
+        "Code": "BE",
+        "Name": "Belgium",
+        "Alias": null
+    },
+    {
+        "Code": "BZ",
+        "Name": "Belize",
+        "Alias": null
+    },
+    {
+        "Code": "BJ",
+        "Name": "Benin",
+        "Alias": null
+    },
+    {
+        "Code": "BM",
+        "Name": "Bermuda",
+        "Alias": null
+    },
+    {
+        "Code": "BT",
+        "Name": "Bhutan",
+        "Alias": null
+    },
+    {
+        "Code": "BO",
+        "Name": "Bolivia",
+        "Alias": null
+    },
+    {
+        "Code": "BQ",
+        "Name": "Bonaire",
+        "Alias": "__Netherlands Antilles__"
+    },
+    {
+        "Code": "BA",
+        "Name": "Bosnia And Herzegovina",
+        "Alias": null
+    },
+    {
+        "Code": "BW",
+        "Name": "Botswana",
+        "Alias": null
+    },
+    {
+        "Code": "BV",
+        "Name": "Bouvet Island",
+        "Alias": null
+    },
+    {
+        "Code": "BR",
+        "Name": "Brazil",
+        "Alias": null
+    },
+    {
+        "Code": "IO",
+        "Name": "British Indian Ocean Territory",
+        "Alias": null
+    },
+    {
+        "Code": "BN",
+        "Name": "Brunei Darussalam",
+        "Alias": null
+    },
+    {
+        "Code": "BG",
+        "Name": "Bulgaria",
+        "Alias": null
+    },
+    {
+        "Code": "BF",
+        "Name": "Burkina Faso",
+        "Alias": null
+    },
+    {
+        "Code": "BI",
+        "Name": "Burundi",
+        "Alias": null
+    },
+    {
+        "Code": "BU",
+        "Name": "Byelorussia",
+        "Alias": null
+    },
+    {
+        "Code": "KH",
+        "Name": "Cambodia",
+        "Alias": null
+    },
+    {
+        "Code": "CM",
+        "Name": "Cameroon",
+        "Alias": null
+    },
+    {
+        "Code": "CA",
+        "Name": "Canada",
+        "Alias": null
+    },
+    {
+        "Code": "CV",
+        "Name": "Cape Verde",
+        "Alias": null
+    },
+    {
+        "Code": "KY",
+        "Name": "Cayman Islands",
+        "Alias": null
+    },
+    {
+        "Code": "CF",
+        "Name": "Central African Republic",
+        "Alias": null
+    },
+    {
+        "Code": "TD",
+        "Name": "Chad",
+        "Alias": null
+    },
+    {
+        "Code": "CL",
+        "Name": "Chile",
+        "Alias": null
+    },
+    {
+        "Code": "CN",
+        "Name": "China",
+        "Alias": null
+    },
+    {
+        "Code": "CX",
+        "Name": "Christmas Island",
+        "Alias": null
+    },
+    {
+        "Code": "CC",
+        "Name": "Cocos (Keeling) Islands",
+        "Alias": null
+    },
+    {
+        "Code": "CO",
+        "Name": "Colombia",
+        "Alias": null
+    },
+    {
+        "Code": "KM",
+        "Name": "Comoros",
+        "Alias": null
+    },
+    {
+        "Code": "CG",
+        "Name": "Congo",
+        "Alias": null
+    },
+    {
+        "Code": "CD",
+        "Name": "Congo, The Democratic Republic Of The",
+        "Alias": null
+    },
+    {
+        "Code": "CK",
+        "Name": "Cook Islands",
+        "Alias": null
+    },
+    {
+        "Code": "CR",
+        "Name": "Costa Rica",
+        "Alias": null
+    },
+    {
+        "Code": "CI",
+        "Name": "Cote D'Ivoire",
+        "Alias": "____"
+    },
+    {
+        "Code": "HR",
+        "Name": "Croatia",
+        "Alias": null
+    },
+    {
+        "Code": "CU",
+        "Name": "Cuba",
+        "Alias": null
+    },
+    {
+        "Code": "CW",
+        "Name": "Curacao",
+        "Alias": "__Netherlands Antilles__"
+    },
+    {
+        "Code": "CY",
+        "Name": "Cyprus",
+        "Alias": null
+    },
+    {
+        "Code": "CZ",
+        "Name": "Czech Republic",
+        "Alias": null
+    },
+    {
+        "Code": "DK",
+        "Name": "Denmark",
+        "Alias": null
+    },
+    {
+        "Code": "DJ",
+        "Name": "Djibouti",
+        "Alias": null
+    },
+    {
+        "Code": "DM",
+        "Name": "Dominica",
+        "Alias": null
+    },
+    {
+        "Code": "DO",
+        "Name": "Dominican Republic",
+        "Alias": null
+    },
+    {
+        "Code": "EC",
+        "Name": "Ecuador",
+        "Alias": null
+    },
+    {
+        "Code": "EG",
+        "Name": "Egypt",
+        "Alias": null
+    },
+    {
+        "Code": "SV",
+        "Name": "El Salvador",
+        "Alias": null
+    },
+    {
+        "Code": "GQ",
+        "Name": "Equatorial Guinea",
+        "Alias": null
+    },
+    {
+        "Code": "ER",
+        "Name": "Eritrea",
+        "Alias": null
+    },
+    {
+        "Code": "EE",
+        "Name": "Estonia",
+        "Alias": null
+    },
+    {
+        "Code": "ET",
+        "Name": "Ethiopia",
+        "Alias": null
+    },
+    {
+        "Code": "FK",
+        "Name": "Falkland Islands (Malvinas)",
+        "Alias": null
+    },
+    {
+        "Code": "FO",
+        "Name": "Faroe Islands",
+        "Alias": null
+    },
+    {
+        "Code": "FJ",
+        "Name": "Fiji",
+        "Alias": null
+    },
+    {
+        "Code": "FI",
+        "Name": "Finland",
+        "Alias": null
+    },
+    {
+        "Code": "FR",
+        "Name": "France",
+        "Alias": null
+    },
+    {
+        "Code": "GF",
+        "Name": "French Guiana",
+        "Alias": null
+    },
+    {
+        "Code": "PF",
+        "Name": "French Polynesia",
+        "Alias": null
+    },
+    {
+        "Code": "TF",
+        "Name": "French Southern Territories",
+        "Alias": null
+    },
+    {
+        "Code": "GA",
+        "Name": "Gabon",
+        "Alias": null
+    },
+    {
+        "Code": "GM",
+        "Name": "Gambia",
+        "Alias": null
+    },
+    {
+        "Code": "GE",
+        "Name": "Georgia",
+        "Alias": null
+    },
+    {
+        "Code": "DE",
+        "Name": "Germany",
+        "Alias": null
+    },
+    {
+        "Code": "GH",
+        "Name": "Ghana",
+        "Alias": null
+    },
+    {
+        "Code": "GI",
+        "Name": "Gibraltar",
+        "Alias": null
+    },
+    {
+        "Code": "GR",
+        "Name": "Greece",
+        "Alias": null
+    },
+    {
+        "Code": "GL",
+        "Name": "Greenland",
+        "Alias": null
+    },
+    {
+        "Code": "GD",
+        "Name": "Grenada",
+        "Alias": null
+    },
+    {
+        "Code": "GP",
+        "Name": "Guadeloupe",
+        "Alias": null
+    },
+    {
+        "Code": "GU",
+        "Name": "Guam",
+        "Alias": null
+    },
+    {
+        "Code": "GT",
+        "Name": "Guatemala",
+        "Alias": null
+    },
+    {
+        "Code": "GN",
+        "Name": "Guinea",
+        "Alias": null
+    },
+    {
+        "Code": "GW",
+        "Name": "Guinea-bissau",
+        "Alias": null
+    },
+    {
+        "Code": "GY",
+        "Name": "Guyana",
+        "Alias": null
+    },
+    {
+        "Code": "HT",
+        "Name": "Haiti",
+        "Alias": null
+    },
+    {
+        "Code": "HM",
+        "Name": "Heard Island And Mcdonald Islands",
+        "Alias": null
+    },
+    {
+        "Code": "VA",
+        "Name": "Holy See (Vatican City State)",
+        "Alias": null
+    },
+    {
+        "Code": "HN",
+        "Name": "Honduras",
+        "Alias": null
+    },
+    {
+        "Code": "HK",
+        "Name": "Hong Kong, China",
+        "Alias": "____"
+    },
+    {
+        "Code": "HU",
+        "Name": "Hungary",
+        "Alias": null
+    },
+    {
+        "Code": "IS",
+        "Name": "Iceland",
+        "Alias": null
+    },
+    {
+        "Code": "IN",
+        "Name": "India",
+        "Alias": null
+    },
+    {
+        "Code": "ID",
+        "Name": "Indonesia",
+        "Alias": null
+    },
+    {
+        "Code": "IR",
+        "Name": "Iran, Islamic Republic Of",
+        "Alias": null
+    },
+    {
+        "Code": "IQ",
+        "Name": "Iraq",
+        "Alias": null
+    },
+    {
+        "Code": "IE",
+        "Name": "Ireland",
+        "Alias": "____"
+    },
+    {
+        "Code": "IL",
+        "Name": "Israel",
+        "Alias": null
+    },
+    {
+        "Code": "IT",
+        "Name": "Italy",
+        "Alias": null
+    },
+    {
+        "Code": "JM",
+        "Name": "Jamaica",
+        "Alias": null
+    },
+    {
+        "Code": "JP",
+        "Name": "Japan",
+        "Alias": null
+    },
+    {
+        "Code": "JO",
+        "Name": "Jordan",
+        "Alias": null
+    },
+    {
+        "Code": "KZ",
+        "Name": "Kazakhstan",
+        "Alias": null
+    },
+    {
+        "Code": "KE",
+        "Name": "Kenya",
+        "Alias": null
+    },
+    {
+        "Code": "KI",
+        "Name": "Kiribati",
+        "Alias": null
+    },
+    {
+        "Code": "KP",
+        "Name": "Korea, Democratic People`S Republic Of",
+        "Alias": "__North Korea__"
+    },
+    {
+        "Code": "KR",
+        "Name": "Korea, Republic Of",
+        "Alias": "__South Korea__"
+    },
+    {
+        "Code": "XK",
+        "Name": "Kosovo",
+        "Alias": null
+    },
+    {
+        "Code": "KW",
+        "Name": "Kuwait",
+        "Alias": null
+    },
+    {
+        "Code": "KG",
+        "Name": "Kyrgyzstan",
+        "Alias": null
+    },
+    {
+        "Code": "LA",
+        "Name": "Lao People`S Democratic Republic",
+        "Alias": null
+    },
+    {
+        "Code": "LV",
+        "Name": "Latvia",
+        "Alias": null
+    },
+    {
+        "Code": "LB",
+        "Name": "Lebanon",
+        "Alias": null
+    },
+    {
+        "Code": "LS",
+        "Name": "Lesotho",
+        "Alias": null
+    },
+    {
+        "Code": "LR",
+        "Name": "Liberia",
+        "Alias": null
+    },
+    {
+        "Code": "LY",
+        "Name": "Libya",
+        "Alias": "____"
+    },
+    {
+        "Code": "LI",
+        "Name": "Liechtenstein",
+        "Alias": null
+    },
+    {
+        "Code": "LT",
+        "Name": "Lithuania",
+        "Alias": null
+    },
+    {
+        "Code": "LU",
+        "Name": "Luxembourg",
+        "Alias": null
+    },
+    {
+        "Code": "MO",
+        "Name": "Macau, China",
+        "Alias": "____"
+    },
+    {
+        "Code": "MK",
+        "Name": "Macedonia",
+        "Alias": null
+    },
+    {
+        "Code": "MG",
+        "Name": "Madagascar",
+        "Alias": null
+    },
+    {
+        "Code": "MW",
+        "Name": "Malawi",
+        "Alias": null
+    },
+    {
+        "Code": "MY",
+        "Name": "Malaysia",
+        "Alias": null
+    },
+    {
+        "Code": "MV",
+        "Name": "Maldives",
+        "Alias": null
+    },
+    {
+        "Code": "ML",
+        "Name": "Mali",
+        "Alias": null
+    },
+    {
+        "Code": "MT",
+        "Name": "Malta",
+        "Alias": null
+    },
+    {
+        "Code": "MH",
+        "Name": "Marshall Islands",
+        "Alias": null
+    },
+    {
+        "Code": "MQ",
+        "Name": "Martinique",
+        "Alias": null
+    },
+    {
+        "Code": "MR",
+        "Name": "Mauritania",
+        "Alias": null
+    },
+    {
+        "Code": "MU",
+        "Name": "Mauritius",
+        "Alias": null
+    },
+    {
+        "Code": "YT",
+        "Name": "Mayotte",
+        "Alias": null
+    },
+    {
+        "Code": "MX",
+        "Name": "Mexico",
+        "Alias": null
+    },
+    {
+        "Code": "FM",
+        "Name": "Micronesia, Federated States Of",
+        "Alias": null
+    },
+    {
+        "Code": "MD",
+        "Name": "Moldova, Republic Of",
+        "Alias": null
+    },
+    {
+        "Code": "MC",
+        "Name": "Monaco",
+        "Alias": null
+    },
+    {
+        "Code": "MN",
+        "Name": "Mongolia",
+        "Alias": null
+    },
+    {
+        "Code": "ME",
+        "Name": "Montenegro",
+        "Alias": null
+    },
+    {
+        "Code": "MS",
+        "Name": "Montserrat",
+        "Alias": null
+    },
+    {
+        "Code": "MA",
+        "Name": "Morocco",
+        "Alias": null
+    },
+    {
+        "Code": "MZ",
+        "Name": "Mozambique",
+        "Alias": null
+    },
+    {
+        "Code": "MM",
+        "Name": "Myanmar",
+        "Alias": null
+    },
+    {
+        "Code": "NA",
+        "Name": "Namibia",
+        "Alias": null
+    },
+    {
+        "Code": "NR",
+        "Name": "Nauru",
+        "Alias": null
+    },
+    {
+        "Code": "NP",
+        "Name": "Nepal",
+        "Alias": null
+    },
+    {
+        "Code": "NL",
+        "Name": "Netherlands",
+        "Alias": null
+    },
+    {
+        "Code": "AN",
+        "Name": "Netherlands Antilles",
+        "Alias": "__Bonaire_\nAruba_\nCuracao__"
+    },
+    {
+        "Code": "NC",
+        "Name": "New Caledonia",
+        "Alias": null
+    },
+    {
+        "Code": "NZ",
+        "Name": "New Zealand",
+        "Alias": null
+    },
+    {
+        "Code": "NI",
+        "Name": "Nicaragua",
+        "Alias": null
+    },
+    {
+        "Code": "NE",
+        "Name": "Niger",
+        "Alias": null
+    },
+    {
+        "Code": "NG",
+        "Name": "Nigeria",
+        "Alias": null
+    },
+    {
+        "Code": "NU",
+        "Name": "Niue",
+        "Alias": null
+    },
+    {
+        "Code": "NF",
+        "Name": "Norfolk Island",
+        "Alias": null
+    },
+    {
+        "Code": "NO",
+        "Name": "Norway",
+        "Alias": null
+    },
+    {
+        "Code": "OM",
+        "Name": "Oman",
+        "Alias": null
+    },
+    {
+        "Code": "PK",
+        "Name": "Pakistan",
+        "Alias": null
+    },
+    {
+        "Code": "PW",
+        "Name": "Palau",
+        "Alias": null
+    },
+    {
+        "Code": "PS",
+        "Name": "Palestinian Territory, Occupied",
+        "Alias": null
+    },
+    {
+        "Code": "PA",
+        "Name": "Panama",
+        "Alias": null
+    },
+    {
+        "Code": "PG",
+        "Name": "Papua New Guinea",
+        "Alias": null
+    },
+    {
+        "Code": "PY",
+        "Name": "Paraguay",
+        "Alias": null
+    },
+    {
+        "Code": "PE",
+        "Name": "Peru",
+        "Alias": null
+    },
+    {
+        "Code": "PH",
+        "Name": "Philippines",
+        "Alias": null
+    },
+    {
+        "Code": "PN",
+        "Name": "Pitcairn",
+        "Alias": null
+    },
+    {
+        "Code": "PL",
+        "Name": "Poland",
+        "Alias": null
+    },
+    {
+        "Code": "PT",
+        "Name": "Portugal",
+        "Alias": null
+    },
+    {
+        "Code": "PR",
+        "Name": "Puerto Rico",
+        "Alias": null
+    },
+    {
+        "Code": "QA",
+        "Name": "Qatar",
+        "Alias": null
+    },
+    {
+        "Code": "RE",
+        "Name": "Reunion",
+        "Alias": null
+    },
+    {
+        "Code": "RO",
+        "Name": "Romania",
+        "Alias": null
+    },
+    {
+        "Code": "RU",
+        "Name": "Russian Federation",
+        "Alias": null
+    },
+    {
+        "Code": "RW",
+        "Name": "Rwanda",
+        "Alias": null
+    },
+    {
+        "Code": "BL",
+        "Name": "Saint Barthelmey",
+        "Alias": null
+    },
+    {
+        "Code": "SH",
+        "Name": "Saint Helena",
+        "Alias": null
+    },
+    {
+        "Code": "KN",
+        "Name": "Saint Kitts And Nevis",
+        "Alias": null
+    },
+    {
+        "Code": "LC",
+        "Name": "Saint Lucia",
+        "Alias": null
+    },
+    {
+        "Code": "PM",
+        "Name": "Saint Pierre And Miquelon",
+        "Alias": null
+    },
+    {
+        "Code": "TS",
+        "Name": "Saint Thomas",
+        "Alias": null
+    },
+    {
+        "Code": "VC",
+        "Name": "Saint Vincent And The Grenadines",
+        "Alias": null
+    },
+    {
+        "Code": "MP",
+        "Name": "Saipan",
+        "Alias": "__Northern Mariana Islands__"
+    },
+    {
+        "Code": "WS",
+        "Name": "Samoa",
+        "Alias": null
+    },
+    {
+        "Code": "SM",
+        "Name": "San Marino",
+        "Alias": null
+    },
+    {
+        "Code": "ST",
+        "Name": "Sao Tome And Principe",
+        "Alias": null
+    },
+    {
+        "Code": "SA",
+        "Name": "Saudi Arabia",
+        "Alias": null
+    },
+    {
+        "Code": "SN",
+        "Name": "Senegal",
+        "Alias": null
+    },
+    {
+        "Code": "RS",
+        "Name": "Serbia",
+        "Alias": "____"
+    },
+    {
+        "Code": "SC",
+        "Name": "Seychelles",
+        "Alias": null
+    },
+    {
+        "Code": "SL",
+        "Name": "Sierra Leone",
+        "Alias": null
+    },
+    {
+        "Code": "SG",
+        "Name": "Singapore",
+        "Alias": null
+    },
+    {
+        "Code": "SX",
+        "Name": "Sint Maarten",
+        "Alias": null
+    },
+    {
+        "Code": "SK",
+        "Name": "Slovakia",
+        "Alias": null
+    },
+    {
+        "Code": "SI",
+        "Name": "Slovenia",
+        "Alias": null
+    },
+    {
+        "Code": "SB",
+        "Name": "Solomon Islands",
+        "Alias": null
+    },
+    {
+        "Code": "SO",
+        "Name": "Somalia",
+        "Alias": null
+    },
+    {
+        "Code": "ZA",
+        "Name": "South Africa",
+        "Alias": null
+    },
+    {
+        "Code": "GS",
+        "Name": "South Georgia And The South Sandwich Islands",
+        "Alias": null
+    },
+    {
+        "Code": "SS",
+        "Name": "South Sudan",
+        "Alias": null
+    },
+    {
+        "Code": "ES",
+        "Name": "Spain",
+        "Alias": null
+    },
+    {
+        "Code": "LK",
+        "Name": "Sri Lanka",
+        "Alias": null
+    },
+    {
+        "Code": "SD",
+        "Name": "Sudan",
+        "Alias": null
+    },
+    {
+        "Code": "SR",
+        "Name": "Suriname",
+        "Alias": null
+    },
+    {
+        "Code": "SJ",
+        "Name": "Svalbard And Jan Mayen",
+        "Alias": null
+    },
+    {
+        "Code": "SZ",
+        "Name": "Swaziland",
+        "Alias": null
+    },
+    {
+        "Code": "SE",
+        "Name": "Sweden",
+        "Alias": null
+    },
+    {
+        "Code": "CH",
+        "Name": "Switzerland",
+        "Alias": null
+    },
+    {
+        "Code": "SY",
+        "Name": "Syrian Arab Republic",
+        "Alias": null
+    },
+    {
+        "Code": "TW",
+        "Name": "Taiwan, China",
+        "Alias": "____"
+    },
+    {
+        "Code": "TJ",
+        "Name": "Tajikistan",
+        "Alias": null
+    },
+    {
+        "Code": "TZ",
+        "Name": "Tanzania, United Republic Of",
+        "Alias": null
+    },
+    {
+        "Code": "TH",
+        "Name": "Thailand",
+        "Alias": "##TH#\nThai#\nThailand##"
+    },
+    {
+        "Code": "TL",
+        "Name": "Timor-leste",
+        "Alias": null
+    },
+    {
+        "Code": "TG",
+        "Name": "Togo",
+        "Alias": null
+    },
+    {
+        "Code": "TK",
+        "Name": "Tokelau",
+        "Alias": null
+    },
+    {
+        "Code": "TO",
+        "Name": "Tonga",
+        "Alias": null
+    },
+    {
+        "Code": "TT",
+        "Name": "Trinidad And Tobago",
+        "Alias": null
+    },
+    {
+        "Code": "TN",
+        "Name": "Tunisia",
+        "Alias": null
+    },
+    {
+        "Code": "TR",
+        "Name": "Turkiye",
+        "Alias": null
+    },
+    {
+        "Code": "TM",
+        "Name": "Turkmenistan",
+        "Alias": null
+    },
+    {
+        "Code": "TC",
+        "Name": "Turks and Caicos Islands",
+        "Alias": "____"
+    },
+    {
+        "Code": "TV",
+        "Name": "Tuvalu",
+        "Alias": null
+    },
+    {
+        "Code": "UG",
+        "Name": "Uganda",
+        "Alias": null
+    },
+    {
+        "Code": "UA",
+        "Name": "Ukraine",
+        "Alias": null
+    },
+    {
+        "Code": "AE",
+        "Name": "United Arab Emirates",
+        "Alias": "__UAE_\nU.A.E.__"
+    },
+    {
+        "Code": "GB",
+        "Name": "United Kingdom",
+        "Alias": "__UK_\nUK._\nU.K.__"
+    },
+    {
+        "Code": "UM",
+        "Name": "United States Minor Outlying Islands",
+        "Alias": null
+    },
+    {
+        "Code": "US",
+        "Name": "United States of America",
+        "Alias": "__USA_\nUS_\nU.S.A._\nUS._\nU.S._\nunited states__"
+    },
+    {
+        "Code": "UY",
+        "Name": "Uruguay",
+        "Alias": null
+    },
+    {
+        "Code": "UZ",
+        "Name": "Uzbekistan",
+        "Alias": null
+    },
+    {
+        "Code": "VU",
+        "Name": "Vanuatu",
+        "Alias": null
+    },
+    {
+        "Code": "VE",
+        "Name": "Venezuela",
+        "Alias": null
+    },
+    {
+        "Code": "VN",
+        "Name": "Vietnam",
+        "Alias": null
+    },
+    {
+        "Code": "VG",
+        "Name": "Virgin Islands, British",
+        "Alias": null
+    },
+    {
+        "Code": "VI",
+        "Name": "Virgin Islands, U.S.",
+        "Alias": null
+    },
+    {
+        "Code": "WF",
+        "Name": "Wallis And Futuna",
+        "Alias": null
+    },
+    {
+        "Code": "EH",
+        "Name": "Western Sahara",
+        "Alias": null
+    },
+    {
+        "Code": "YE",
+        "Name": "Yemen",
+        "Alias": null
+    },
+    {
+        "Code": "ZM",
+        "Name": "Zambia",
+        "Alias": null
+    },
+    {
+        "Code": "ZW",
+        "Name": "Zimbabwe",
+        "Alias": null
+    }
+]
