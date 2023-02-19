@@ -46,8 +46,8 @@ async function main(){
         let data = {};
           const $ = cheerio.load(response.data); // load HTML
     
-          const company_name = $(".company_name").text();
-          console.log('company_name: ', company_name.trim());
+          const company_name = $(".company_name").text().trim();
+          console.log('company_name: ', company_name);
           data['company_name'] = company_name;
           $(".compid").each((index, el) => {
             const compid = $(el).find("span").text().split(' ')[1];
